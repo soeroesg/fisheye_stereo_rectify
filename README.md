@@ -13,6 +13,6 @@ intrinsic matrix in matlab is transpose of the normal camera intrinsic matrix.
 Other parameters can be copied to stereo_camera.yml
 #4 Run
 ```
-./fisheye_rectify ../camear_stereo.yml ../images/l.png ../images/r.png
+./fisheye_rectify ../stereo_camera.yml ../images/l.png ../images/r.png
 ```
 
